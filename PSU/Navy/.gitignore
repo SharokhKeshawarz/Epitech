@@ -1,0 +1,11 @@
+assets
+
+my_navy
+
+/lib/my/libmy.a
+
+vgcore.*
+
+authorized_functions.txt
+
+/.vscode/

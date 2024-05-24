@@ -1,0 +1,13 @@
+/.vscode/
+
+/lib/my/libmy.a
+
+functions.txt
+
+asm
+
+*.cor
+
+note.txt
+
+*.s

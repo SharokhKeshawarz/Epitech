@@ -1,0 +1,13 @@
+organized
+
+/lib/my/libmy.a
+
+vgcore.*
+
+/.vscode
+
+commands.txt
+
+/test
+
+test.c.test
